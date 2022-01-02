@@ -37,10 +37,10 @@ menu:
       pre: <i class='fa fa-phone fa-fw'></i>
       url: /contact/
       weight: 4
-social:
-  facebook: '*'
-  github: yoshiharuyamashita
-  instagram: '*'
-  linkedin: '*'
-  stackoverflow: '*'
-  twitter: '*'
+# social:
+#   facebook: '*'
+#   github: yoshiharuyamashita
+#   instagram: '*'
+#   linkedin: '*'
+#   stackoverflow: '*'
+#   twitter: '*'
